@@ -9,5 +9,4 @@ const asyncValidate = (values /*, dispatch */) => {
         }
     })
 }
-
 export default asyncValidate
